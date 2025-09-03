@@ -1,0 +1,10 @@
+artifact_location: file:///root/MLOps-Course-M2/project/mlops-project/mlruns/0/models/m-1524ef07daba4fe2ad6c7f3b22752065/artifacts
+creation_timestamp: 1756890942762
+experiment_id: '0'
+last_updated_timestamp: 1756890944968
+model_id: m-1524ef07daba4fe2ad6c7f3b22752065
+model_type: null
+name: best_estimator
+source_run_id: c790b149fc1b4e1e990912b2eec305ab
+status: 2
+status_message: null

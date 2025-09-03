@@ -1,0 +1,14 @@
+artifact_uri: file:///root/MLOps-Course-M2/project/mlops-project/mlruns/0/005ad681dc2742838c491cb7e1914247/artifacts
+end_time: 1756890944973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 005ad681dc2742838c491cb7e1914247
+run_name: ambitious-koi-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756890936396
+status: 3
+tags: []
+user_id: johlan

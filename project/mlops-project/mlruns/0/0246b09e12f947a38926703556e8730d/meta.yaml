@@ -1,0 +1,14 @@
+artifact_uri: file:///root/MLOps-Course-M2/project/mlops-project/mlruns/0/0246b09e12f947a38926703556e8730d/artifacts
+end_time: 1756890944973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0246b09e12f947a38926703556e8730d
+run_name: enthused-mouse-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756890936396
+status: 3
+tags: []
+user_id: johlan

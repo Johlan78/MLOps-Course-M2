@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+mlflow
+matplotlib
+seaborn
+pyyaml
+pytest
+ruff
+tqdm
